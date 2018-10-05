@@ -1,0 +1,5 @@
+Which class get call first in Java program?
+What are the exceptions in Java, Explain?
+How many time we can set for splash screen normally?
+Which method use to kill the Broadcast Receiver?
+Practical :- Login and SignUp Form with API through Retrofit?
